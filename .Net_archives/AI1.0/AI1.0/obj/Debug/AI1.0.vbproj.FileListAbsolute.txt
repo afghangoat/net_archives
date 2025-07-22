@@ -1,0 +1,17 @@
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.exe.config
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.exe.manifest
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.application
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.exe
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.pdb
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\bin\Debug\AI1.0.xml
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1._0.Form1.resources
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1._0.Resources.resources
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.TrustInfo.xml
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.exe.manifest
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.application
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.exe
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.xml
+C:\Users\Gabci\source\repos\AI1.0\AI1.0\obj\Debug\AI1.0.pdb
