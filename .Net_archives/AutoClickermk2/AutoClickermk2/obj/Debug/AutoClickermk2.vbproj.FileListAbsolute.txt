@@ -1,0 +1,17 @@
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.exe.config
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.exe.manifest
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.application
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.exe
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.pdb
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\bin\Debug\AutoClickermk2.xml
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.Form1.resources
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.Resources.resources
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.TrustInfo.xml
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.exe.manifest
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.application
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.exe
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.xml
+C:\Users\Gabci\source\repos\AutoClickermk2\AutoClickermk2\obj\Debug\AutoClickermk2.pdb
