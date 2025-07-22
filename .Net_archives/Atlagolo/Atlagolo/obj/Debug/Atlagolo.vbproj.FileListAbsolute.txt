@@ -1,0 +1,16 @@
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.exe.config
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.exe
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.pdb
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.xml
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.Form1.resources
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.Resources.resources
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.exe
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.xml
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.pdb
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.exe.manifest
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\bin\Debug\Atlagolo.application
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.exe.manifest
+C:\Users\Gabci\source\repos\Atlagolo\Atlagolo\obj\Debug\Atlagolo.application
