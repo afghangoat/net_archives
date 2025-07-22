@@ -1,0 +1,17 @@
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.exe.config
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.exe.manifest
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.application
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.exe
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.pdb
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\bin\Debug\2ndpassb.xml
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\_2ndpassb.Form1.resources
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\_2ndpassb.Resources.resources
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.TrustInfo.xml
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.exe.manifest
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.application
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.exe
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.xml
+C:\Users\Gabci\source\repos\2ndpassb\2ndpassb\obj\Debug\2ndpassb.pdb
