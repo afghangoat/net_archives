@@ -1,0 +1,17 @@
+c:\users\gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.exe.config
+c:\users\gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.exe
+c:\users\gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.pdb
+c:\users\gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.xml
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.vbprojResolveAssemblyReference.cache
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper_window.Form1.resources
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper_window.Resources.resources
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.vbproj.GenerateResource.cache
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.vbproj.CoreCompileInputs.cache
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.exe
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.xml
+c:\users\gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.pdb
+C:\Users\Gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.exe.manifest
+C:\Users\Gabci\source\repos\Escaper window\Escaper window\bin\Debug\Escaper window.application
+C:\Users\Gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.TrustInfo.xml
+C:\Users\Gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.exe.manifest
+C:\Users\Gabci\source\repos\Escaper window\Escaper window\obj\Debug\Escaper window.application
