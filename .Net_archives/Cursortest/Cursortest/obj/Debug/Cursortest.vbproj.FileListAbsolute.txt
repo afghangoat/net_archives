@@ -1,0 +1,12 @@
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\bin\Debug\Cursortest.exe.config
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\bin\Debug\Cursortest.exe
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\bin\Debug\Cursortest.pdb
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\bin\Debug\Cursortest.xml
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.Form1.resources
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.Resources.resources
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.exe
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.xml
+C:\Users\Gabci\source\repos\Cursortest\Cursortest\obj\Debug\Cursortest.pdb
