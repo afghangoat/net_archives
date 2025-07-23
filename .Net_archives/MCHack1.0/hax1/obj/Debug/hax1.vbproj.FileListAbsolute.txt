@@ -1,0 +1,16 @@
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.exe.config
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.exe
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.pdb
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.xml
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.Form1.resources
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.Resources.resources
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.exe
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.xml
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.pdb
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.exe.manifest
+C:\Users\Gabci\source\repos\hax1\hax1\bin\Debug\hax1.application
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.exe.manifest
+C:\Users\Gabci\source\repos\hax1\hax1\obj\Debug\hax1.application
