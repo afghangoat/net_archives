@@ -1,0 +1,17 @@
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.exe.config
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.exe.manifest
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.application
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.exe
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.pdb
+C:\Users\Gabci\source\repos\Homescript\Homescript\bin\Debug\Homescript2.xml
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.Form1.resources
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.Resources.resources
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.TrustInfo.xml
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.exe.manifest
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.application
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.exe
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.xml
+C:\Users\Gabci\source\repos\Homescript\Homescript\obj\Debug\Homescript2.pdb
