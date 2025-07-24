@@ -1,0 +1,16 @@
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent_Illuminati.I1.resources
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent_Illuminati.Resources.resources
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.exe.config
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.exe.manifest
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.application
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.exe
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.pdb
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\bin\Debug\Transparent-Illuminati1.xml
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati1.exe.manifest
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati1.application
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati1.exe
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati1.xml
+C:\Users\Gabci\source\repos\Transparent-Illuminati\Transparent-Illuminati\obj\Debug\Transparent-Illuminati1.pdb
