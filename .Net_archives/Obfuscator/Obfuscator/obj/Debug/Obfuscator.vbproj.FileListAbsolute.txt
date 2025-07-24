@@ -1,0 +1,17 @@
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.exe.config
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.exe
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.xml
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.Form1.resources
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.Resources.resources
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.exe
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.xml
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.exe.manifest
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.application
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.TrustInfo.xml
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.exe.manifest
+C:\Users\Gabci\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.application
