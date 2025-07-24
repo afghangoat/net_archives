@@ -1,0 +1,12 @@
+c:\users\gabci\source\repos\string vars\string vars\bin\Debug\string vars.exe.config
+c:\users\gabci\source\repos\string vars\string vars\bin\Debug\string vars.exe
+c:\users\gabci\source\repos\string vars\string vars\bin\Debug\string vars.pdb
+c:\users\gabci\source\repos\string vars\string vars\bin\Debug\string vars.xml
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.vbprojResolveAssemblyReference.cache
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string_vars.Form1.resources
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string_vars.Resources.resources
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.vbproj.GenerateResource.cache
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.vbproj.CoreCompileInputs.cache
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.exe
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.xml
+c:\users\gabci\source\repos\string vars\string vars\obj\Debug\string vars.pdb
