@@ -1,0 +1,12 @@
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\bin\Debug\Politikus_szimulator.exe.config
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\bin\Debug\Politikus_szimulator.exe
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\bin\Debug\Politikus_szimulator.pdb
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\bin\Debug\Politikus_szimulator.xml
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.vbprojResolveAssemblyReference.cache
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.Form1.resources
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.Resources.resources
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.vbproj.GenerateResource.cache
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.vbproj.CoreCompileInputs.cache
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.exe
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.xml
+C:\Users\Gabci\source\repos\Politikus_szimulator\Politikus_szimulator\obj\Debug\Politikus_szimulator.pdb
